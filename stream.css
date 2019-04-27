@@ -1,0 +1,8 @@
+#header{display: none;}#lightnavigation{display: none;}
+footer{display: none;}
+body{background: linear-gradient(to left, #7700aa, #8800ff);}
+#main-wrapper{background: linear-gradient(to left, #7700aa, #8800ff);}
+.breadcrumbs{display: none;}
+.post{background: linear-gradient(to left, #7700aa, #8800ff);box-shadow: none;width:100%;}
+.post-title{display: none;}
+.container-audio {width: 100%;height: auto;padding: 20px;border-radius: 5px;background-color: #333;color: #444;margin: 20px auto;overflow: hidden;}
